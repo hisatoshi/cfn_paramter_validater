@@ -1,6 +1,6 @@
 # cfn_paramter_validater
 
-##コンセプト
+## コンセプト
 cloudformaionのテンプレートを作るときに、パラメータ関係でイライラすることがある。
 具体的には、
 
