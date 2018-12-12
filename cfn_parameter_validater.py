@@ -1,6 +1,5 @@
 import json
 import yaml
-
 import sys
 import re
 import logging
